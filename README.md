@@ -1,6 +1,4 @@
 # ada-prueba
-prueba
+prueba - 
 
-ol
-
-o
+texto de prueba
